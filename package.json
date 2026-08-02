@@ -1,7 +1,7 @@
 {
   "name": "homebridge-vera",
   "displayName": "Homebridge Vera",
-  "version": "1.0.0",
+  "version": "1.0.0-local.1",
   "description": "Homebridge platform plugin that exposes Vera (MiOS/Ezlo) Z-Wave devices and scenes to HomeKit.",
   "license": "ISC",
   "author": "Damian Alarcon",
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damianxd/homebridge-vera.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/damianxd/homebridge-vera/issues"
+    "url": ""
   },
   "keywords": [
     "homebridge-plugin",
